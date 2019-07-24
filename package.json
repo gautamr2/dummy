@@ -1,7 +1,7 @@
 {
   "name": "dummy",
   "version": "1.0.0",
-  "description": "Componnets",
+  "description": "Components",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d storybook_dist",
